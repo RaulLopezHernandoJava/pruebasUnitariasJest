@@ -1,0 +1,8 @@
+Correr un archivo test
+
+npm test <nombre archivo de test>
+Ejemplo -- npm test  numbers.test.jest
+
+Instalar dependencia de desarrollo para que nos autocomplete con los metodos de jest
+npm install --save-dev  @types/jest
+
