@@ -1,0 +1,29 @@
+{
+  "name": "testunitariosjest",
+  "version": "1.0.0",
+  "description": "Pruebas Unitarias con Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaulLopezHernandoJava/pruebasUnitariasJest.git"
+  },
+  "keywords": [
+    "jest",
+    "pruebas",
+    "unitarias"
+  ],
+  "author": "Raul Lopez Hernando <raullopezhernando@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RaulLopezHernandoJava/pruebasUnitariasJest/issues"
+  },
+  "homepage": "https://github.com/RaulLopezHernandoJava/pruebasUnitariasJest#readme",
+  "devDependencies": {
+    "babel-jest": "^26.6.3",
+    "babel-polyfill": "^6.26.0",
+    "jest": "^26.6.3"
+  }
+}
