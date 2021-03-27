@@ -15,4 +15,5 @@ npm install --save-dev  @types/jest
 4.Comando para ejecuta coverage desde el terminal
 npm run test:coverage
 
-
+5. Monitorear toda la carpeta de pruebas (Incluimos en "scripts" dentro del archivo "package.json)
+"test:watch":"jest --watch"
