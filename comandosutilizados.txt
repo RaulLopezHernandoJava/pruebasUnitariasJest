@@ -21,3 +21,11 @@ npm run test:coverage
 6. Instalacion de libreria "axios" (Siempre nos devolvera una promesa)
 
 
+7. A la hora de testear el recibo de datos con "async-await" en jest sera necesario instalar la 
+   siguiente libreria (regenerator-runtime) para luego agragar en cada uno de los archivos de test
+   dicha libreria
+
+   npm i -D regenerator-runtime
+   import 'regenerator-runtime/runtime';
+
+
