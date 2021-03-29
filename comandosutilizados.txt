@@ -17,3 +17,7 @@ npm run test:coverage
 
 5. Monitorear toda la carpeta de pruebas (Incluimos en "scripts" dentro del archivo "package.json)
 "test:watch":"jest --watch"
+
+6. Instalacion de libreria "axios" (Siempre nos devolvera una promesa)
+
+
