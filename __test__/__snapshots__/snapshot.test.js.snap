@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Es hora de las instantaneas Siempre fallara la instantanea 1`] = `
+Object {
+  "createAt": 2021-03-29T11:32:45.074Z,
+  "id": 2,
+}
+`;
+
+exports[`Es hora de las instantaneas Snapshot 1`] = `
+Object {
+  "gender": "Male",
+  "id": 1,
+  "name": "Rick Sanchez",
+  "species": "Human",
+  "status": "Alive",
+}
+`;
